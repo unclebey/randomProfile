@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+  height: 100vh;
+  background-color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.img{
+  box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.2), 0 8px 30px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.card {
+  position: absolute;
+  top: 40%;
+  left: 45%;
+  height: 10em;
+  transform: rotate(-60deg);
+  color: black;
+  animation: 3s linear 0s infinite rotate;
+}
+
+
+Button{
+    background: rgb(6,14,131);
+    background: linear-gradient(0deg, rgba(6,14,131,1) 0%, rgba(12,25,180,1) 100%);
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+  
+}
