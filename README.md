@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-link: https://fascinating-sawine-3d95d7.netlify.app/
+link: https://randomuser-gen.netlify.app/
 
 
 ## Available Scripts
